@@ -1,2 +1,2 @@
-# hyper_skill
-Tasks from hyperskill platform
+# Hyper skill projects - JetBrains
+[Hyper skill](https://hyperskill.org/)
